@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/StudentReader.iml" filepath="$PROJECT_DIR$/StudentReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMapActivity.iml" filepath="$PROJECT_DIR$/HashMapActivity.iml" />
     </modules>
   </component>
 </project>
